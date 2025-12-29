@@ -4,11 +4,12 @@
 This project analyzes Superstore sales data using Power BI to uncover business insights and forecast sales for the next 15 days.
 The dashboard helps understand sales performance, profit trends, customer behavior, and future demand.
 
+
 🎯 Objectives
-.Analyze sales, profit, and order trends
-.Identify top-performing states, categories, and segments
-.Compare Year-over-Year (YoY) performance
-.Forecast sales for the next 15 days
+. Analyze sales, profit, and order trends
+. Identify top-performing states, categories, and segments
+. Compare Year-over-Year (YoY) performance
+. Forecast sales for the next 15 days
 
 🛠 Tools Used
 .Power BI
