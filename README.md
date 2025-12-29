@@ -1,4 +1,5 @@
 📊 Superstore Sales Analysis & 15-Day Forecast (Power BI)
+
 📌 Overview
 This project analyzes Superstore sales data using Power BI to uncover business insights and forecast sales for the next 15 days.
 The dashboard helps understand sales performance, profit trends, customer behavior, and future demand.
