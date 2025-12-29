@@ -30,17 +30,17 @@ Time Period: 2019 – 2021
 
 📈 Key Insights
 
- # California and New York generate the highest sales
+ - California and New York generate the highest sales
 
- # Consumer segment contributes the most revenue
+ - Consumer segment contributes the most revenue
 
- # Standard shipping is the most used ship mode
+ - Standard shipping is the most used ship mode
 
- # Office Supplies lead category-wise sales
+ - Office Supplies lead category-wise sales
 
- # Sales and profit peak during Q4 months
+ - Sales and profit peak during Q4 months
 
- # Forecast shows a stable upward sales trend
+ - Forecast shows a stable upward sales trend
 
 🗂 Project Structure
   📦 Superstore-Sales-PowerBI
