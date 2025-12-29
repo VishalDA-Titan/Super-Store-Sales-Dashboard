@@ -20,7 +20,6 @@ The dashboard helps understand sales performance, profit trends, customer behavi
 📂 Dataset
 
 Superstore Sales Data
-
 Time Period: 2019 – 2021
 
 📊 Dashboard Preview
@@ -50,9 +49,9 @@ Time Period: 2019 – 2021
 
 🚀 How to Use
 
-  Download the .pbix file
-  Open it in Power BI Desktop
-  Interact with slicers and visuals
+  -Download the .pbix file
+  -Open it in Power BI Desktop
+  -Interact with slicers and visuals
 
 👤 Author
 
