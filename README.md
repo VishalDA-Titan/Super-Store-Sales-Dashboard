@@ -12,26 +12,26 @@ The dashboard helps understand sales performance, profit trends, customer behavi
 . Forecast sales for the next 15 days
 
 🛠 Tools Used
-.Power BI
-.MS Excel / CSV
-.DAX
-.Time Series Forecasting
+. Power BI
+. MS Excel / CSV
+. DAX
+. Time Series Forecasting
 
 📂 Dataset
 .Superstore Sales Data
 Time Period: 2019 – 2021
 
 📊 Dashboard Preview
-.Sales Forecast – 15 Days
-.Superstore Sales Dashboard
+. Sales Forecast – 15 Days
+. Superstore Sales Dashboard
 
 📈 Key Insights
-.California and New York generate the highest sales
-.Consumer segment contributes the most revenue
-.Standard shipping is the most used ship mode
-.Office Supplies lead category-wise sales
-.Sales and profit peak during Q4 months
-.Forecast shows a stable upward sales trend
+. California and New York generate the highest sales
+. Consumer segment contributes the most revenue
+. Standard shipping is the most used ship mode
+. Office Supplies lead category-wise sales
+. Sales and profit peak during Q4 months
+. Forecast shows a stable upward sales trend
 
 🗂 Project Structure
 📦 Superstore-Sales-PowerBI
